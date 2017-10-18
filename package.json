@@ -2,7 +2,7 @@
   "name": "babel",
   "version": "1.0.0",
   "description": "ES62ES2015",
-  "author": "Jarun",
+  "author": "JarunWang",
   "scripts": {
     "build": "babel src -d dist",
     "watch": "babel src -d dist -w"
